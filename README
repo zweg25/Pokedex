@@ -13,3 +13,15 @@ Some code is adapted from the Bootstrap Documentation. Pokemon data and images w
 
 The Pokedex can be viewed live here: https://cs1300-pokedex-development.herokuapp.com
 The original code is posted here: https://github.com/zweg25/Pokedex
+
+
+Once you have downloaded the code, you can deploy it yourself using React. All you have to do is:
+
+1. Check that you have node installed by running node --version in your terminal
+2. If you don’t have node you can install it here: https://nodejs.org/en/download/
+3. In your terminal, run sudo npm install -g create-react-app (you will need to type in your system password)
+4. Once everything is downloaded, run create-react-app pokedex
+5. Then run cd pokedex to go into that directory
+6. Replace your “public” and “src” folders with mine
+7. Run npm start to start your app
+8. On your browser, go to http://localhost:3000/ to see the app live!
