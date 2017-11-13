@@ -1,0 +1,12 @@
+ ______      _         ______     _            _           
+|___  /     | |        | ___ \   | |          | |          
+   / /  __ _| | _____  | |_/ /__ | | _____  __| | _____  __
+  / /  / _` | |/ / __| |  __/ _ \| |/ / _ \/ _` |/ _ \ \/ /
+./ /__| (_| |   <\__ \ | | | (_) |   <  __/ (_| |  __/>  < 
+\_____/\__,_|_|\_\___/ \_|  \___/|_|\_\___|\__,_|\___/_/\_\
+
+-------------------------------------------------------------
+
+With so much content and information these days, live filtering is very crucial feature for websites and it can considerably affect the user experience. I created my own live filtering Pokedex to learn and explore React and to create something I wish I had as a kid. I used the design principles learned in Brown's CS1300 UI/UX class, such as making the site responsive for different devices (with CSS Flexbox and Bootstrap's Grid), providing whitespace between distinct elements, and constructing easily learnable, memorable, and efficient search parameters. My goal was to make it as user-friendly and interactive as possible!
+
+Some code is adapted from the Bootstrap Documentation. Pokemon data and images were provided from Bhargav at codementor.io: https://drive.google.com/file/d/0ByYe7McX3nVPZ1RLY01UbUN0Snc/view
