@@ -25,3 +25,4 @@ Once you have downloaded the code, you can deploy it yourself using React. All y
 6. Replace your “public” and “src” folders with mine
 7. Run npm start to start your app
 8. On your browser, go to http://localhost:3000/ to see the app live!
+
